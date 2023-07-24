@@ -1,4 +1,4 @@
-# `🧿 The Idago - Bot 🧿' #
+# `🧿 𝐈𝐃𝐀𝐆𝐎 𝐁𝐎𝐓-𝐌𝐃 🧿' #
 
 
  > NO SPAMEAR COMANDOS
@@ -44,8 +44,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
-```
+git clone https://github.com/Idagoo05/The-Idago-Bot-MD.git && cd The-Idago-Bot-MD```
 
 ```bash
 npm start
